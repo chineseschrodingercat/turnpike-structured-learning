@@ -1,0 +1,62 @@
+{
+  "2D-semi": {
+    "dataset_sha256": "b9369ee30a531a67646cd1c279f603640ecca1e6d2672c9f912901a60c6e8b90",
+    "split_sizes": [
+      450,
+      100,
+      100
+    ],
+    "replay_values": 6000,
+    "maximum_absolute_relative_error_difference": 3.599551212651875e-17,
+    "median_pct": [
+      0.07383985953497339,
+      0.07383985953497339,
+      2.2565302851105954e-06
+    ],
+    "max_pct": [
+      0.2640706252976476,
+      0.2640706252976475,
+      5.090279744500464e-06
+    ]
+  },
+  "2D-semi-strip": {
+    "dataset_sha256": "c831766d9a779378ff76f29ec6474d5c0ab98ea26454d2243fbe9f096d0ea909",
+    "split_sizes": [
+      550,
+      100,
+      100
+    ],
+    "replay_values": 6000,
+    "maximum_absolute_relative_error_difference": 1.64625257870199e-15,
+    "median_pct": [
+      0.13405376608564484,
+      0.13404585981957634,
+      2.1519130718176216e-06
+    ],
+    "max_pct": [
+      0.791820615076968,
+      0.7920978949239503,
+      4.453073390344524e-06
+    ]
+  },
+  "2D-semi-move": {
+    "dataset_sha256": "57c122e0eb16c0e25ea30468c2a6b51b9b255df9aab069131cd14dbae4b0b916",
+    "split_sizes": [
+      550,
+      100,
+      100
+    ],
+    "replay_values": 6000,
+    "maximum_absolute_relative_error_difference": 1.3964523981613297e-15,
+    "median_pct": [
+      0.17590985474921117,
+      0.17408836549343842,
+      0.13367700456907258
+    ],
+    "max_pct": [
+      0.852658966887194,
+      0.8477585222574922,
+      0.8361343496151566
+    ]
+  }
+}

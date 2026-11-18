@@ -4,6 +4,9 @@ __pycache__/
 artifacts/
 runs/
 results/
+!/results/
+/results/*
+!/results/semilinear_multiseed/
 Raw Data/
 *.npz
 *.npy
