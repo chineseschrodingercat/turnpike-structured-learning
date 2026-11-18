@@ -1,0 +1,7 @@
+numpy==2.4.3
+scipy==1.16.3
+threadpoolctl==3.6.0
+psutil==7.2.1
+matplotlib==3.10.7
+# Install torch==2.9.0 separately from the CPU wheel index (README).
+# Original surrogate modules import matplotlib even though MPC makes no plots.

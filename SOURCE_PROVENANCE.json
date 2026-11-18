@@ -1,0 +1,896 @@
+[
+  {
+    "path": "exp/robin/advect_eval.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/advect_eval.py",
+    "original_sha256": "8e9e065ee593e12c6f876e3ea9594b7200cfbe40f9198ecd661c5d010a5f97f9",
+    "sha256": "8e9e065ee593e12c6f876e3ea9594b7200cfbe40f9198ecd661c5d010a5f97f9"
+  },
+  {
+    "path": "exp/robin/advect_fake_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/advect_fake_data.py",
+    "original_sha256": "71e9ba9ea310e074103cf901365e1a24648ac174aad25fa78981dbe326e6decf",
+    "sha256": "71e9ba9ea310e074103cf901365e1a24648ac174aad25fa78981dbe326e6decf"
+  },
+  {
+    "path": "exp/robin/advect_moving.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/advect_moving.py",
+    "original_sha256": "44026bb7c29d035e9e2c5bc24b3d139c9aac49fa8ec06d14dc74f9b730a946bc",
+    "sha256": "44026bb7c29d035e9e2c5bc24b3d139c9aac49fa8ec06d14dc74f9b730a946bc"
+  },
+  {
+    "path": "exp/robin/advect_pilot.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/advect_pilot.py",
+    "original_sha256": "3973b0485d597db4bb11e87d7dd80824e5182b7de59fc2ce99bb21a26661f5ec",
+    "sha256": "3973b0485d597db4bb11e87d7dd80824e5182b7de59fc2ce99bb21a26661f5ec"
+  },
+  {
+    "path": "exp/robin/advect_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/advect_surrogate.py",
+    "original_sha256": "cd173fd05b5fb7d587a44668ab96a2b9103c64d90f87e108d504e108cb476f36",
+    "sha256": "cd173fd05b5fb7d587a44668ab96a2b9103c64d90f87e108d504e108cb476f36"
+  },
+  {
+    "path": "exp/robin/analyze_tc1d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/analyze_tc1d.py",
+    "original_sha256": "8723276991752309c185bc1de0e98633a7a0870cf26ed2b0dd543781c1bb3456",
+    "sha256": "8723276991752309c185bc1de0e98633a7a0870cf26ed2b0dd543781c1bb3456"
+  },
+  {
+    "path": "exp/robin/baselines_multihorizon.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/baselines_multihorizon.py",
+    "original_sha256": "c30e17368d449a133805126470ef22bae2aac0a877255368d7847d23d8389d97",
+    "sha256": "c30e17368d449a133805126470ef22bae2aac0a877255368d7847d23d8389d97"
+  },
+  {
+    "path": "exp/robin/bistable_box_pilot.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/bistable_box_pilot.py",
+    "original_sha256": "04c5678c3c09b54e7400a9ecaf03ffdf10a4dd85633327babe8b26481a419db7",
+    "sha256": "04c5678c3c09b54e7400a9ecaf03ffdf10a4dd85633327babe8b26481a419db7"
+  },
+  {
+    "path": "exp/robin/bistable_box_summary.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/bistable_box_summary.py",
+    "original_sha256": "50521f6a16513a03ca0524731513c463df6d545abebe82df66d918c304c95359",
+    "sha256": "50521f6a16513a03ca0524731513c463df6d545abebe82df66d918c304c95359"
+  },
+  {
+    "path": "exp/robin/box_moving.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/box_moving.py",
+    "original_sha256": "cc2912597c57d7bbc9b2eb0e62f7cd39c891d1ad5afff52da2dc3ef2c27d2a93",
+    "sha256": "cc2912597c57d7bbc9b2eb0e62f7cd39c891d1ad5afff52da2dc3ef2c27d2a93"
+  },
+  {
+    "path": "exp/robin/box_q_rank.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/box_q_rank.py",
+    "original_sha256": "20e957502823b03005cea852d45bb4ff43692c2b99a2532a594ac62f7680798f",
+    "sha256": "20e957502823b03005cea852d45bb4ff43692c2b99a2532a594ac62f7680798f"
+  },
+  {
+    "path": "exp/robin/box_representability.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/box_representability.py",
+    "original_sha256": "d192935540951baad6b39dec139eb9191388f034f3a1a454cbe98356b83abb49",
+    "sha256": "d192935540951baad6b39dec139eb9191388f034f3a1a454cbe98356b83abb49"
+  },
+  {
+    "path": "exp/robin/box_turnpike_analysis.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/box_turnpike_analysis.py",
+    "original_sha256": "540deb3ee6549823f9437b20935abe422b33e1b2696cdbec084802f22e541c74",
+    "sha256": "540deb3ee6549823f9437b20935abe422b33e1b2696cdbec084802f22e541c74"
+  },
+  {
+    "path": "exp/robin/box_turnpike_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/box_turnpike_surrogate.py",
+    "original_sha256": "4ce06ae817e88864925997f9d3b7bd3be3f5a9759de6bc33a262120a33bc83a9",
+    "sha256": "4ce06ae817e88864925997f9d3b7bd3be3f5a9759de6bc33a262120a33bc83a9"
+  },
+  {
+    "path": "exp/robin/box_worst_case_diag.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/box_worst_case_diag.py",
+    "original_sha256": "e0cc485993741d87ff9e1943717d4e2478c9dd3c6478e862a5ea16dbfcd9ee0c",
+    "sha256": "e0cc485993741d87ff9e1943717d4e2478c9dd3c6478e862a5ea16dbfcd9ee0c"
+  },
+  {
+    "path": "exp/robin/e1_operator_svd.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/e1_operator_svd.py",
+    "original_sha256": "706245c218c21e992ea3099cac7fbcd1c9662e71dcd24fe6df82743c51d9be41",
+    "sha256": "706245c218c21e992ea3099cac7fbcd1c9662e71dcd24fe6df82743c51d9be41"
+  },
+  {
+    "path": "exp/robin/e2_closed_form.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/e2_closed_form.py",
+    "original_sha256": "2ac9e88879e5a24b212b7cd153fce4afb255634367a0fc9a235366a80c70cffc",
+    "sha256": "2ac9e88879e5a24b212b7cd153fce4afb255634367a0fc9a235366a80c70cffc"
+  },
+  {
+    "path": "exp/robin/e2b_pod_tails.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/e2b_pod_tails.py",
+    "original_sha256": "386e3cdb49b062935239e72eda31ffa6d601da947bdd679cb8fbcaad7f645b3d",
+    "sha256": "386e3cdb49b062935239e72eda31ffa6d601da947bdd679cb8fbcaad7f645b3d"
+  },
+  {
+    "path": "exp/robin/endpoint_windows.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/endpoint_windows.py",
+    "original_sha256": "83f1cde009176cb20e23855bfe04b5fd95836f45be302f0a7a65589604ee6fad",
+    "sha256": "83f1cde009176cb20e23855bfe04b5fd95836f45be302f0a7a65589604ee6fad"
+  },
+  {
+    "path": "exp/robin/fresh_summary.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/fresh_summary.py",
+    "original_sha256": "d41dfc372730b711033a634c39e7710f2ad68b689426a8b779110600ec25413a",
+    "sha256": "d41dfc372730b711033a634c39e7710f2ad68b689426a8b779110600ec25413a"
+  },
+  {
+    "path": "exp/robin/fresh_test_1d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/fresh_test_1d.py",
+    "original_sha256": "a0ecbcef24794d23e2b3e2892cebe9c4c90d543558ced9b1c4caa843653c5c84",
+    "sha256": "a0ecbcef24794d23e2b3e2892cebe9c4c90d543558ced9b1c4caa843653c5c84"
+  },
+  {
+    "path": "exp/robin/gap_linear.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gap_linear.py",
+    "original_sha256": "a02fe9d28f6b0f61834452b726f1d543e544ed6189bf9af466a58454861f0493",
+    "sha256": "a02fe9d28f6b0f61834452b726f1d543e544ed6189bf9af466a58454861f0493"
+  },
+  {
+    "path": "exp/robin/gap_semilinear2d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gap_semilinear2d.py",
+    "original_sha256": "be9671a82c6d6eed709b231dafc25ce648b2cbb765afdd7506ba8b7002974148",
+    "sha256": "be9671a82c6d6eed709b231dafc25ce648b2cbb765afdd7506ba8b7002974148"
+  },
+  {
+    "path": "exp/robin/gen_2d_mi_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_2d_mi_data.py",
+    "original_sha256": "e44a7a384000b688128f940f23b9f7e1470e9c77d8e038e22587730931ea0eb2",
+    "sha256": "e44a7a384000b688128f940f23b9f7e1470e9c77d8e038e22587730931ea0eb2"
+  },
+  {
+    "path": "exp/robin/gen_2d_multi_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_2d_multi_data.py",
+    "original_sha256": "da601c6ed4b89bc2294ac47eef5e07df59fafa7b99fe42a3d85ca3b532c76938",
+    "sha256": "da601c6ed4b89bc2294ac47eef5e07df59fafa7b99fe42a3d85ca3b532c76938"
+  },
+  {
+    "path": "exp/robin/gen_2d_strip_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_2d_strip_data.py",
+    "original_sha256": "65eb0f51e2c34b83e2362f60b8823983f118106b909442c55f9e8d38c74b3007",
+    "sha256": "65eb0f51e2c34b83e2362f60b8823983f118106b909442c55f9e8d38c74b3007"
+  },
+  {
+    "path": "exp/robin/gen_2d_turnpike_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_2d_turnpike_data.py",
+    "original_sha256": "97d341ae38479669623c39692e454d61429aa4a535225e521cf518525eda2304",
+    "sha256": "97d341ae38479669623c39692e454d61429aa4a535225e521cf518525eda2304"
+  },
+  {
+    "path": "exp/robin/gen_advect_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_advect_data.py",
+    "original_sha256": "fef2b2f02f28514e9cbf891ef1976b2ece87271ddd0bb0ec8bb88db1f7ee1442",
+    "sha256": "fef2b2f02f28514e9cbf891ef1976b2ece87271ddd0bb0ec8bb88db1f7ee1442"
+  },
+  {
+    "path": "exp/robin/gen_box_turnpike_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_box_turnpike_data.py",
+    "original_sha256": "26859a9cad6ead6100e9d4ba79e8d6d4f51b460cc6e46d1e304380df3b4af33e",
+    "sha256": "26859a9cad6ead6100e9d4ba79e8d6d4f51b460cc6e46d1e304380df3b4af33e"
+  },
+  {
+    "path": "exp/robin/gen_datasets.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_datasets.py",
+    "original_sha256": "0cd07798838429f89ad02c46f4d44575a01cf5cb5d9f42d6dc626ee2f9d3fd3b",
+    "sha256": "0cd07798838429f89ad02c46f4d44575a01cf5cb5d9f42d6dc626ee2f9d3fd3b"
+  },
+  {
+    "path": "exp/robin/gen_moving_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_moving_data.py",
+    "original_sha256": "a11c3509f2974e254b82938e7009a0ccd1e30c6d0ad35beea9d535ccaf91f6ed",
+    "sha256": "a11c3509f2974e254b82938e7009a0ccd1e30c6d0ad35beea9d535ccaf91f6ed"
+  },
+  {
+    "path": "exp/robin/gen_multispot_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_multispot_data.py",
+    "original_sha256": "2b2de8095368d7084c6202a28877864cd6190be90d9b43218fbb629a7a3a499c",
+    "sha256": "2b2de8095368d7084c6202a28877864cd6190be90d9b43218fbb629a7a3a499c"
+  },
+  {
+    "path": "exp/robin/gen_osc_turnpike_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_osc_turnpike_data.py",
+    "original_sha256": "1345fb07b3465e874b2386839051fac81828e86ecedf9fa55b22a3821b8078c9",
+    "sha256": "1345fb07b3465e874b2386839051fac81828e86ecedf9fa55b22a3821b8078c9"
+  },
+  {
+    "path": "exp/robin/gen_semilinear2d_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_semilinear2d_data.py",
+    "original_sha256": "9b38025ededde8aa0a5c035f0459307615b1337588ef6c355f443d2c7b6f95ab",
+    "sha256": "9b38025ededde8aa0a5c035f0459307615b1337588ef6c355f443d2c7b6f95ab"
+  },
+  {
+    "path": "exp/robin/gen_semilinear2d_mi_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_semilinear2d_mi_data.py",
+    "original_sha256": "5ce4d11bcec1156e237010972de55fedf2808502960f958427e7eb46abedecfc",
+    "sha256": "5ce4d11bcec1156e237010972de55fedf2808502960f958427e7eb46abedecfc"
+  },
+  {
+    "path": "exp/robin/gen_semilinear_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_semilinear_data.py",
+    "original_sha256": "749df6d4097077a82ef84c8f58bd098bf47eb175a838bf968366686a4ae11a0d",
+    "sha256": "749df6d4097077a82ef84c8f58bd098bf47eb175a838bf968366686a4ae11a0d"
+  },
+  {
+    "path": "exp/robin/gen_semilinear_moving_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_semilinear_moving_data.py",
+    "original_sha256": "c6170847d114a6b9d3cc45fd1e394ee2c23f8a268fc066d1781c1a79a3110861",
+    "sha256": "c6170847d114a6b9d3cc45fd1e394ee2c23f8a268fc066d1781c1a79a3110861"
+  },
+  {
+    "path": "exp/robin/gen_turnpike_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_turnpike_data.py",
+    "original_sha256": "5f3729a8f98c0d85d4e1b69293f34cdd3e985a33b0f8d9a25c3158f95b42635a",
+    "sha256": "5f3729a8f98c0d85d4e1b69293f34cdd3e985a33b0f8d9a25c3158f95b42635a"
+  },
+  {
+    "path": "exp/robin/gen_y0_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/gen_y0_data.py",
+    "original_sha256": "e038b706e9378af3a879869646dfbc0dc1561c7ceddc8349865e27729ca925e1",
+    "sha256": "e038b706e9378af3a879869646dfbc0dc1561c7ceddc8349865e27729ca925e1"
+  },
+  {
+    "path": "exp/robin/hamiltonian_exact.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/hamiltonian_exact.py",
+    "original_sha256": "742982237d9fabd530dcfd99c56769264c312387fdbb990bcd18cb0a04df0b20",
+    "sha256": "742982237d9fabd530dcfd99c56769264c312387fdbb990bcd18cb0a04df0b20"
+  },
+  {
+    "path": "exp/robin/identifiability_check.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/identifiability_check.py",
+    "original_sha256": "cd59fe6f3d9945e4754e3bb6c1be7ed1c29dec34f926b09c237c07e6b67efff3",
+    "sha256": "cd59fe6f3d9945e4754e3bb6c1be7ed1c29dec34f926b09c237c07e6b67efff3"
+  },
+  {
+    "path": "exp/robin/inventory_preds.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/inventory_preds.py",
+    "original_sha256": "3790ce279f21f317901049f3b87ba81a54ac7aa45f0ca97886af6152cc93b075",
+    "sha256": "3790ce279f21f317901049f3b87ba81a54ac7aa45f0ca97886af6152cc93b075"
+  },
+  {
+    "path": "exp/robin/make_paper_figs.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/make_paper_figs.py",
+    "original_sha256": "ec7bb1b412bb0466ff4112c254c28e87ad601c2587d156f0fb217c378ad729c3",
+    "sha256": "ec7bb1b412bb0466ff4112c254c28e87ad601c2587d156f0fb217c378ad729c3"
+  },
+  {
+    "path": "exp/robin/make_paper_figs2.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/make_paper_figs2.py",
+    "original_sha256": "fe7c78b4808af4f490cde7e0472d66248d2246a397f299df55d70fc09e6a9ccb",
+    "sha256": "fe7c78b4808af4f490cde7e0472d66248d2246a397f299df55d70fc09e6a9ccb"
+  },
+  {
+    "path": "exp/robin/merge_box_datasets.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/merge_box_datasets.py",
+    "original_sha256": "e2637194047ea990f28c7b72554a44dbec857702d1851943dc151b220cdb52f1",
+    "sha256": "e2637194047ea990f28c7b72554a44dbec857702d1851943dc151b220cdb52f1"
+  },
+  {
+    "path": "exp/robin/merge_semilinear_extra.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/merge_semilinear_extra.py",
+    "original_sha256": "73a45bba5dccd8ba919551d80ca85a6b85e368356e868accf26b1886989b7427",
+    "sha256": "73a45bba5dccd8ba919551d80ca85a6b85e368356e868accf26b1886989b7427"
+  },
+  {
+    "path": "exp/robin/mi_turnpike_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/mi_turnpike_surrogate.py",
+    "original_sha256": "cedb329c45031017b89b296325697134d79a5b4e753dbe7f82b134a8acdd4f74",
+    "sha256": "cedb329c45031017b89b296325697134d79a5b4e753dbe7f82b134a8acdd4f74"
+  },
+  {
+    "path": "exp/robin/moving2d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/moving2d.py",
+    "original_sha256": "2383f0a4f33529d26f0e64b523788ea8ab0e90a423b0c585622783297a201011",
+    "sha256": "2383f0a4f33529d26f0e64b523788ea8ab0e90a423b0c585622783297a201011"
+  },
+  {
+    "path": "exp/robin/moving_eval.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/moving_eval.py",
+    "original_sha256": "8eb3d0a27f59237ac9c9a33757df0600766046b9f12361f6f34d8ac3bfb8fe0f",
+    "sha256": "8eb3d0a27f59237ac9c9a33757df0600766046b9f12361f6f34d8ac3bfb8fe0f"
+  },
+  {
+    "path": "exp/robin/moving_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/moving_surrogate.py",
+    "original_sha256": "ca6aa4b41bf2c2c960c1ed90897b1234164658e85c2f0302827ebf3c1b7a8a27",
+    "sha256": "ca6aa4b41bf2c2c960c1ed90897b1234164658e85c2f0302827ebf3c1b7a8a27"
+  },
+  {
+    "path": "exp/robin/mpc_semilinear.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/mpc_semilinear.py",
+    "original_sha256": "264f73255ad78e457c59c066eb36541a20d11f5f518f64575fc0a90fc75f40c6",
+    "sha256": "264f73255ad78e457c59c066eb36541a20d11f5f518f64575fc0a90fc75f40c6"
+  },
+  {
+    "path": "exp/robin/multi_turnpike_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/multi_turnpike_surrogate.py",
+    "original_sha256": "2f021948499e1385749edd126a004b982f0236cbf0cafe1c6f24d9c4bb453a32",
+    "sha256": "2f021948499e1385749edd126a004b982f0236cbf0cafe1c6f24d9c4bb453a32"
+  },
+  {
+    "path": "exp/robin/multispot_chain.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/multispot_chain.sh",
+    "original_sha256": "7660b42bf838fd53b60500a5dc9b7b1293aa6470090edd01053686d2afa7c6ba",
+    "sha256": "bbef0fe3afc95b5cf851f77b2350863d46e703d683de56e3e6349f41a86fe6d8"
+  },
+  {
+    "path": "exp/robin/multispot_fake_data.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/multispot_fake_data.py",
+    "original_sha256": "0243839e51cd42e9f4fa0e9b2802a4c8fe38cddf6b4ea2e9e386831ab40f066c",
+    "sha256": "0243839e51cd42e9f4fa0e9b2802a4c8fe38cddf6b4ea2e9e386831ab40f066c"
+  },
+  {
+    "path": "exp/robin/multispot_pilot.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/multispot_pilot.py",
+    "original_sha256": "80c0dbc73490b8a68d57ea27f00f2892c778d907cca6c1552a30438636e06c19",
+    "sha256": "80c0dbc73490b8a68d57ea27f00f2892c778d907cca6c1552a30438636e06c19"
+  },
+  {
+    "path": "exp/robin/multispot_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/multispot_surrogate.py",
+    "original_sha256": "8355eabf09a023d16988c04c2ea2c4ba65fa8233acbef44a3bce04b00b171ee1",
+    "sha256": "8355eabf09a023d16988c04c2ea2c4ba65fa8233acbef44a3bce04b00b171ee1"
+  },
+  {
+    "path": "exp/robin/osc_turnpike_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/osc_turnpike_surrogate.py",
+    "original_sha256": "fd07f8022d15d2fe82381d529360cad94121a7ad127b454808d4eb5d12d764fa",
+    "sha256": "fd07f8022d15d2fe82381d529360cad94121a7ad127b454808d4eb5d12d764fa"
+  },
+  {
+    "path": "exp/robin/plot_2d_examples.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_2d_examples.py",
+    "original_sha256": "cb82b04afab74c6349abe4888a1d2630cb12e71f67b986a06ca4a511e22392a2",
+    "sha256": "cb82b04afab74c6349abe4888a1d2630cb12e71f67b986a06ca4a511e22392a2"
+  },
+  {
+    "path": "exp/robin/plot_advect.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_advect.py",
+    "original_sha256": "dcb2ff8192245f299e9cc5b457e80055809f185c99d87a4eec065299f07f92e3",
+    "sha256": "dcb2ff8192245f299e9cc5b457e80055809f185c99d87a4eec065299f07f92e3"
+  },
+  {
+    "path": "exp/robin/plot_advect_gt.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_advect_gt.py",
+    "original_sha256": "900a7f2f87435bd924bf0e442421b7c9b49d00cd960ce3502107ce1fb6411907",
+    "sha256": "900a7f2f87435bd924bf0e442421b7c9b49d00cd960ce3502107ce1fb6411907"
+  },
+  {
+    "path": "exp/robin/plot_bistable_box_gt.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_bistable_box_gt.py",
+    "original_sha256": "cf1663cadaa2629fbcad62ed1122a663e06a75bfacb394b14dd1e7cc95866f54",
+    "sha256": "cf1663cadaa2629fbcad62ed1122a663e06a75bfacb394b14dd1e7cc95866f54"
+  },
+  {
+    "path": "exp/robin/plot_controls.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_controls.py",
+    "original_sha256": "8379d96b0a2b19ac20a33f5c07a5cd8e0033df88181a9e968f0cdc731ec0c25b",
+    "sha256": "8379d96b0a2b19ac20a33f5c07a5cd8e0033df88181a9e968f0cdc731ec0c25b"
+  },
+  {
+    "path": "exp/robin/plot_endpoint_windows.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_endpoint_windows.py",
+    "original_sha256": "73957d35f3554dec58fb7f304bc6da39ec4fb7420d7c0967cb6b23717b758668",
+    "sha256": "73957d35f3554dec58fb7f304bc6da39ec4fb7420d7c0967cb6b23717b758668"
+  },
+  {
+    "path": "exp/robin/plot_moving_example.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_moving_example.py",
+    "original_sha256": "53e157204f068c4ed9251cb7d0b8464f44f97f22a7b0939bc94b870fdbcf198e",
+    "sha256": "53e157204f068c4ed9251cb7d0b8464f44f97f22a7b0939bc94b870fdbcf198e"
+  },
+  {
+    "path": "exp/robin/plot_moving_pilot.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_moving_pilot.py",
+    "original_sha256": "aaf7b8c1aa0bc878be52da909511cd64a7fa0a064f80ef2c59d9c6b48a425a76",
+    "sha256": "aaf7b8c1aa0bc878be52da909511cd64a7fa0a064f80ef2c59d9c6b48a425a76"
+  },
+  {
+    "path": "exp/robin/plot_mpc.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_mpc.py",
+    "original_sha256": "5bdb8fa8891929129d844a209bdd6f067b88d4da76d0b455f382aa4f4d43ca53",
+    "sha256": "5bdb8fa8891929129d844a209bdd6f067b88d4da76d0b455f382aa4f4d43ca53"
+  },
+  {
+    "path": "exp/robin/plot_multispot_gt.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_multispot_gt.py",
+    "original_sha256": "4eeef29127fc8aa57327c78d4dc1001c5b5def832e11c3fab48c7639d58c6df2",
+    "sha256": "4eeef29127fc8aa57327c78d4dc1001c5b5def832e11c3fab48c7639d58c6df2"
+  },
+  {
+    "path": "exp/robin/plot_multispot_results.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_multispot_results.py",
+    "original_sha256": "61996398c9dee04785a5ac27de432b642f37991a30ac2e8d81739b5bbc976ccb",
+    "sha256": "61996398c9dee04785a5ac27de432b642f37991a30ac2e8d81739b5bbc976ccb"
+  },
+  {
+    "path": "exp/robin/plot_multispot_summary.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_multispot_summary.py",
+    "original_sha256": "1364c0d085901a4e34aca734ea60a32a5d85b5e76b3b2655c8b6657753807d79",
+    "sha256": "1364c0d085901a4e34aca734ea60a32a5d85b5e76b3b2655c8b6657753807d79"
+  },
+  {
+    "path": "exp/robin/plot_semilinear2d_examples.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_semilinear2d_examples.py",
+    "original_sha256": "b90d35fdcbfef2223995674bdd1bebff5e27749e8d7cded499b2e579cfbe6511",
+    "sha256": "b90d35fdcbfef2223995674bdd1bebff5e27749e8d7cded499b2e579cfbe6511"
+  },
+  {
+    "path": "exp/robin/plot_semilinear2d_mi_example.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_semilinear2d_mi_example.py",
+    "original_sha256": "b12c18ee1c7f1745dc906480077f5996f5c03ea6f7e6609f6c0a08413e51a122",
+    "sha256": "b12c18ee1c7f1745dc906480077f5996f5c03ea6f7e6609f6c0a08413e51a122"
+  },
+  {
+    "path": "exp/robin/plot_semilinear_examples.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_semilinear_examples.py",
+    "original_sha256": "c2b9b37c3ce39c5e9fb3dcdcf6b43e2fcafa82df1a75d28e14649c76703682a6",
+    "sha256": "c2b9b37c3ce39c5e9fb3dcdcf6b43e2fcafa82df1a75d28e14649c76703682a6"
+  },
+  {
+    "path": "exp/robin/plot_semilinear_moving_example.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_semilinear_moving_example.py",
+    "original_sha256": "30ec3612e4013d2139e94e01a7e56c0e186da7b2bb56700cf359bb356756dd0c",
+    "sha256": "30ec3612e4013d2139e94e01a7e56c0e186da7b2bb56700cf359bb356756dd0c"
+  },
+  {
+    "path": "exp/robin/plot_semilinear_moving_gt.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_semilinear_moving_gt.py",
+    "original_sha256": "69c9a0d21ab50b3595d62825f06da6765c95cfacca6b158ac9aab6d75146af95",
+    "sha256": "69c9a0d21ab50b3595d62825f06da6765c95cfacca6b158ac9aab6d75146af95"
+  },
+  {
+    "path": "exp/robin/plot_strip_example.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_strip_example.py",
+    "original_sha256": "76905d0c8f0bf8c12b46275bafbe83bc41c05e19ccf256598485867abe23ed3e",
+    "sha256": "76905d0c8f0bf8c12b46275bafbe83bc41c05e19ccf256598485867abe23ed3e"
+  },
+  {
+    "path": "exp/robin/plot_tc_examples.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/plot_tc_examples.py",
+    "original_sha256": "2f17f1199f2aedb8c50df7c29b23e5783a0d6afe70e85da2e2b0b569680670ac",
+    "sha256": "2f17f1199f2aedb8c50df7c29b23e5783a0d6afe70e85da2e2b0b569680670ac"
+  },
+  {
+    "path": "exp/robin/reaction_moving.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/reaction_moving.py",
+    "original_sha256": "909480da969e489f6d7c4d61e9d215e2343474063910ea51975032be8bf84ff5",
+    "sha256": "909480da969e489f6d7c4d61e9d215e2343474063910ea51975032be8bf84ff5"
+  },
+  {
+    "path": "exp/robin/robin2d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/robin2d.py",
+    "original_sha256": "e5588a233add5253033aae2f92d38c7ab21230fc33843950f0f134054b141416",
+    "sha256": "e5588a233add5253033aae2f92d38c7ab21230fc33843950f0f134054b141416"
+  },
+  {
+    "path": "exp/robin/robin2d_mi.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/robin2d_mi.py",
+    "original_sha256": "6c7bc4cfbd9f0daf43b7c729c1931574a49b040f0f0f2a8b37ff63d21d5d29d9",
+    "sha256": "6c7bc4cfbd9f0daf43b7c729c1931574a49b040f0f0f2a8b37ff63d21d5d29d9"
+  },
+  {
+    "path": "exp/robin/robin2d_multi.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/robin2d_multi.py",
+    "original_sha256": "fc1acc44cbac7e8642d7bc2d8588342a6bd64df0f0281b83e6524d0ca78deff9",
+    "sha256": "fc1acc44cbac7e8642d7bc2d8588342a6bd64df0f0281b83e6524d0ca78deff9"
+  },
+  {
+    "path": "exp/robin/robin_solver.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/robin_solver.py",
+    "original_sha256": "556ecc2d60e5e5a1a2685c2724a087623449a78355492aa2efbe310a78d23dbe",
+    "sha256": "556ecc2d60e5e5a1a2685c2724a087623449a78355492aa2efbe310a78d23dbe"
+  },
+  {
+    "path": "exp/robin/run_advect_train.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_advect_train.sh",
+    "original_sha256": "b084a91aa07fbe5f0e938367534c7bcdcce9b81060b6e9e72adc2b69f3b2a52c",
+    "sha256": "6d15ef8633110b2307b0698ee183b580381aa223a7309fb7df2dc16ef0ec6947"
+  },
+  {
+    "path": "exp/robin/run_multispot_round2.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_multispot_round2.sh",
+    "original_sha256": "60dce19969edb06dd8a0cde403402bde4391c99e0998fa00ec363396724c87e7",
+    "sha256": "2c4f477c8155fb12d52ab66e630442f5c145817f69819f678a411475d0a45796"
+  },
+  {
+    "path": "exp/robin/run_multispot_round3.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_multispot_round3.sh",
+    "original_sha256": "df8d2038abacf32c17b9b72624ac6afb1cf11f7d250865c3b3b166108e99d944",
+    "sha256": "008cc36f0376b340f32cb9a958a6958d6266d8464fb461bb41d302997f3c7d9e"
+  },
+  {
+    "path": "exp/robin/run_multispot_round4.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_multispot_round4.sh",
+    "original_sha256": "cd6da728925cbd8903b90afaae90d12b3f0a9b27ffdfbbcb871d69776ac62505",
+    "sha256": "bb34e27450f6d7c587f922320bb14d051055fbfca76f84c9a70135c1555cebbc"
+  },
+  {
+    "path": "exp/robin/run_multispot_round5.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_multispot_round5.sh",
+    "original_sha256": "6f6e5c99b7186400211506c0b8dba04f07ad38939b49f93211d5861ba8729023",
+    "sha256": "940a2434792fdc57ea1a353723bf224ad0fa9962a9634891d4a0f12bc136537e"
+  },
+  {
+    "path": "exp/robin/run_multispot_round6.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_multispot_round6.sh",
+    "original_sha256": "83e5d7c6eaaae73d84cf95214d92992973f2f4d2b465d37c0b0e176ca541e4b0",
+    "sha256": "b05060a77bbaacff22e755bc2e2d3992036c23166f4bcbc1a63027aeaaf520dc"
+  },
+  {
+    "path": "exp/robin/run_multispot_round7.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_multispot_round7.sh",
+    "original_sha256": "9c1c0e9ed368d376eeebdd9ec71fb1bb9142df445b4cd2749d9dff467f69f59e",
+    "sha256": "d0dcc12fb017c7208300e7b5a5a9669c138dd19f21e99091f0bb9edbdfff5b0b"
+  },
+  {
+    "path": "exp/robin/run_multispot_train.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_multispot_train.sh",
+    "original_sha256": "5537c04129c9fc7d0d0b3943cc5fa29235e0f3f429ee04ee8c17f6d979216ca6",
+    "sha256": "5ea5f0f8171668bb49983cfbd9ca3c21da4aee40ca32425ea0b7b0ac9783452f"
+  },
+  {
+    "path": "exp/robin/run_tc1d.sh",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/run_tc1d.sh",
+    "original_sha256": "290055f4f21f92a1471b9dc4046c3a640c51b8a695d899a17e15d7cba9cd87a6",
+    "sha256": "0bd44edc69324456d0bd399ad4324538b87b73739a5d8d82fce2ba197c3710a5"
+  },
+  {
+    "path": "exp/robin/semilinear1d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear1d.py",
+    "original_sha256": "c2b6abf8ce9bbd4679c6fdcd7f34596bd8c0a961a21887a39032b81893adeb9f",
+    "sha256": "c2b6abf8ce9bbd4679c6fdcd7f34596bd8c0a961a21887a39032b81893adeb9f"
+  },
+  {
+    "path": "exp/robin/semilinear2d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear2d.py",
+    "original_sha256": "b37344c27a5591170992e871cfd35ec8366c0d54b3a422d04ec3b1a4db80f3c7",
+    "sha256": "b37344c27a5591170992e871cfd35ec8366c0d54b3a422d04ec3b1a4db80f3c7"
+  },
+  {
+    "path": "exp/robin/semilinear2d_analysis.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear2d_analysis.py",
+    "original_sha256": "0806e8e3fac745fd5f1b3a33da12b376f558c23ee7fe85c4919a32e196676e2d",
+    "sha256": "0806e8e3fac745fd5f1b3a33da12b376f558c23ee7fe85c4919a32e196676e2d"
+  },
+  {
+    "path": "exp/robin/semilinear2d_mi.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear2d_mi.py",
+    "original_sha256": "26206d58eb65a2a91e32ed0d77b7a276ecc3d030f9bf5519d8694f563a0d25e2",
+    "sha256": "26206d58eb65a2a91e32ed0d77b7a276ecc3d030f9bf5519d8694f563a0d25e2"
+  },
+  {
+    "path": "exp/robin/semilinear2d_mi_eval.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear2d_mi_eval.py",
+    "original_sha256": "10529b9e57f7e2f2cb0c77bbbbfc690e73e99fa5563564f85bfe1d33365157d5",
+    "sha256": "10529b9e57f7e2f2cb0c77bbbbfc690e73e99fa5563564f85bfe1d33365157d5"
+  },
+  {
+    "path": "exp/robin/semilinear_analysis.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear_analysis.py",
+    "original_sha256": "bf253670f5be7bd96a2a2308b313dfd2a7dedf6adea913b86b959e8a6284db00",
+    "sha256": "bf253670f5be7bd96a2a2308b313dfd2a7dedf6adea913b86b959e8a6284db00"
+  },
+  {
+    "path": "exp/robin/semilinear_gap.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear_gap.py",
+    "original_sha256": "3aeee66cf6c229102a870cc52d28bc19591b901caa7096a1be15552092390dad",
+    "sha256": "3aeee66cf6c229102a870cc52d28bc19591b901caa7096a1be15552092390dad"
+  },
+  {
+    "path": "exp/robin/semilinear_moving.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear_moving.py",
+    "original_sha256": "2ff1152e602783f50953ae6ae787121bd12ac25e5e2fb32c86b6712e1d102479",
+    "sha256": "2ff1152e602783f50953ae6ae787121bd12ac25e5e2fb32c86b6712e1d102479"
+  },
+  {
+    "path": "exp/robin/semilinear_moving_eval.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear_moving_eval.py",
+    "original_sha256": "a313e391cf1009f897e127464712c0fab9ff6f253e5ff98aa033b9ba25d89377",
+    "sha256": "a313e391cf1009f897e127464712c0fab9ff6f253e5ff98aa033b9ba25d89377"
+  },
+  {
+    "path": "exp/robin/semilinear_moving_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear_moving_surrogate.py",
+    "original_sha256": "ea5587248a39e1e4b287fcbc403ff0b9c4fc2fad38c6cb2d1a7414283eb5ce24",
+    "sha256": "ea5587248a39e1e4b287fcbc403ff0b9c4fc2fad38c6cb2d1a7414283eb5ce24"
+  },
+  {
+    "path": "exp/robin/semilinear_static_check.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear_static_check.py",
+    "original_sha256": "162b51013aedd3af29be3ade103e0f4e18ef2a7f9f71c1c93a4d070f7eb3c5c1",
+    "sha256": "162b51013aedd3af29be3ade103e0f4e18ef2a7f9f71c1c93a4d070f7eb3c5c1"
+  },
+  {
+    "path": "exp/robin/semilinear_timing.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/semilinear_timing.py",
+    "original_sha256": "e7291ac00d0ee704696797bfeb7201d082bdb5d4b88a4ccc395d15985d2bb156",
+    "sha256": "e7291ac00d0ee704696797bfeb7201d082bdb5d4b88a4ccc395d15985d2bb156"
+  },
+  {
+    "path": "exp/robin/strip_short_timing.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/strip_short_timing.py",
+    "original_sha256": "157f031af884e5f26812981768b2636e67e22d94077921677a2e93dd192f8335",
+    "sha256": "157f031af884e5f26812981768b2636e67e22d94077921677a2e93dd192f8335"
+  },
+  {
+    "path": "exp/robin/tc1d_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/tc1d_surrogate.py",
+    "original_sha256": "2b39dcf77f418431f0ca65c541ec728b7ec2840c47068105b007187e376cfd76",
+    "sha256": "2b39dcf77f418431f0ca65c541ec728b7ec2840c47068105b007187e376cfd76"
+  },
+  {
+    "path": "exp/robin/tc1d_tables.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/tc1d_tables.py",
+    "original_sha256": "2e502583faeb5419c240a5ae730eefa2707458bea9c136ee0d01045d6c20cc44",
+    "sha256": "2e502583faeb5419c240a5ae730eefa2707458bea9c136ee0d01045d6c20cc44"
+  },
+  {
+    "path": "exp/robin/timing_linear.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/timing_linear.py",
+    "original_sha256": "7719f8e38876c4cc99660024af3afe2e8e331e3c488ff19407842446a5ec1b07",
+    "sha256": "7719f8e38876c4cc99660024af3afe2e8e331e3c488ff19407842446a5ec1b07"
+  },
+  {
+    "path": "exp/robin/timing_semilinear2d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/timing_semilinear2d.py",
+    "original_sha256": "a1342dc5695c869bbb2accff3df5b27ef4bf206a770cbc4424b2d7acf943fb26",
+    "sha256": "a1342dc5695c869bbb2accff3df5b27ef4bf206a770cbc4424b2d7acf943fb26"
+  },
+  {
+    "path": "exp/robin/turnpike_analysis.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/turnpike_analysis.py",
+    "original_sha256": "7a13c2848fd7f16e793067b084376afc3a826aec84770018eab3a26ba6353b05",
+    "sha256": "7a13c2848fd7f16e793067b084376afc3a826aec84770018eab3a26ba6353b05"
+  },
+  {
+    "path": "exp/robin/turnpike_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/turnpike_surrogate.py",
+    "original_sha256": "83216f700dea70116497da7cd1192202b9d2b51cc4574fb12477a305160084fd",
+    "sha256": "83216f700dea70116497da7cd1192202b9d2b51cc4574fb12477a305160084fd"
+  },
+  {
+    "path": "exp/robin/validate_2d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_2d.py",
+    "original_sha256": "af84f93014b4d9bb38b028ba3dc8662e9a040d00df01db71e183e063c6535fd2",
+    "sha256": "af84f93014b4d9bb38b028ba3dc8662e9a040d00df01db71e183e063c6535fd2"
+  },
+  {
+    "path": "exp/robin/validate_2d_mi.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_2d_mi.py",
+    "original_sha256": "759f7e7539d85a57d283e5127f90eab7133e1a63c2db4c052f588d8263edb27a",
+    "sha256": "759f7e7539d85a57d283e5127f90eab7133e1a63c2db4c052f588d8263edb27a"
+  },
+  {
+    "path": "exp/robin/validate_advect.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_advect.py",
+    "original_sha256": "656e14c05df7824034f981b09d53100dcdaf252cfe760f8cc5757e88cd5adff6",
+    "sha256": "656e14c05df7824034f981b09d53100dcdaf252cfe760f8cc5757e88cd5adff6"
+  },
+  {
+    "path": "exp/robin/validate_bistable_box.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_bistable_box.py",
+    "original_sha256": "cb3771a17758e564611aefafaf197476a268673258adf0d8c2655b4f99d54a35",
+    "sha256": "cb3771a17758e564611aefafaf197476a268673258adf0d8c2655b4f99d54a35"
+  },
+  {
+    "path": "exp/robin/validate_moving.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_moving.py",
+    "original_sha256": "f13a402767d749283f4dddb97aa82c525786d680ae5226fcf6b48cf106dc76cf",
+    "sha256": "f13a402767d749283f4dddb97aa82c525786d680ae5226fcf6b48cf106dc76cf"
+  },
+  {
+    "path": "exp/robin/validate_robin.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_robin.py",
+    "original_sha256": "104dff24e1b1b1cae903690336f3238e48aea7a6669b788f5968e1c9f3166446",
+    "sha256": "104dff24e1b1b1cae903690336f3238e48aea7a6669b788f5968e1c9f3166446"
+  },
+  {
+    "path": "exp/robin/validate_semilinear.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_semilinear.py",
+    "original_sha256": "19c42af6da52cec494f93d9550ac7148616db5fd7fa30f57825973aa8df688d3",
+    "sha256": "19c42af6da52cec494f93d9550ac7148616db5fd7fa30f57825973aa8df688d3"
+  },
+  {
+    "path": "exp/robin/validate_semilinear2d.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_semilinear2d.py",
+    "original_sha256": "3e0da3b202c9ff39ea059ecbe278d79d5eedc6193505b344f9ed21904d62f437",
+    "sha256": "3e0da3b202c9ff39ea059ecbe278d79d5eedc6193505b344f9ed21904d62f437"
+  },
+  {
+    "path": "exp/robin/validate_semilinear2d_mi.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_semilinear2d_mi.py",
+    "original_sha256": "1fc31656a31186f9264851ca5762cfc5fa4779035aab523806368829ff52b60b",
+    "sha256": "1fc31656a31186f9264851ca5762cfc5fa4779035aab523806368829ff52b60b"
+  },
+  {
+    "path": "exp/robin/validate_semilinear_moving.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_semilinear_moving.py",
+    "original_sha256": "9d567103ac9cbfadddd548b1f4bceaae54e34577c338182444255603ee86a113",
+    "sha256": "9d567103ac9cbfadddd548b1f4bceaae54e34577c338182444255603ee86a113"
+  },
+  {
+    "path": "exp/robin/validate_y0.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/validate_y0.py",
+    "original_sha256": "e4ac06e810d1afa31a703bac8003f4b569371d1539df208e8331c3e1c9164021",
+    "sha256": "e4ac06e810d1afa31a703bac8003f4b569371d1539df208e8331c3e1c9164021"
+  },
+  {
+    "path": "exp/robin/varpro_variants.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/varpro_variants.py",
+    "original_sha256": "df70c553e90aadd5e27b2ddc87a2e32fb0b9d1158957c9ef81782714030bb4d0",
+    "sha256": "df70c553e90aadd5e27b2ddc87a2e32fb0b9d1158957c9ef81782714030bb4d0"
+  },
+  {
+    "path": "exp/robin/y0_family.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/y0_family.py",
+    "original_sha256": "2bd994918fec649e77f90d954fdb0de8fb9fed0d926b97104e423e8d727b8080",
+    "sha256": "2bd994918fec649e77f90d954fdb0de8fb9fed0d926b97104e423e8d727b8080"
+  },
+  {
+    "path": "exp/robin/y0_turnpike_surrogate.py",
+    "origin": "Raw Data/01 - Initial delivery/exp/robin/y0_turnpike_surrogate.py",
+    "original_sha256": "61c04b663e37829202e74e710277267444340cf00546d4f55a7255e70d52989b",
+    "sha256": "61c04b663e37829202e74e710277267444340cf00546d4f55a7255e70d52989b"
+  },
+  {
+    "path": "experiments/matched/paired_baseline.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/expert_revision/paired_baseline.py",
+    "original_sha256": "4780cd8b081c196dd5582cdb7130590886144b74c61ba82b7a06cfc453beb7d3",
+    "sha256": "997064cd335b139fa2f06b9f04ef8238b68d5b3153d1b103a7cea89b7691d970"
+  },
+  {
+    "path": "experiments/matched/paired_cnn_extension.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/expert_revision/paired_cnn_extension.py",
+    "original_sha256": "61fe176aab95716b0d8ffbd5b93fa70ce82f8592a21de5b32572a293d3ad5d13",
+    "sha256": "84c0dca19b8c25171b13debf21b8d742e8976e079a603cc133f1e2ca59ed92d3"
+  },
+  {
+    "path": "experiments/matched/rebuild_box_matched700.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/expert_revision/rebuild_box_matched700.py",
+    "original_sha256": "44cbefaaa4917280983b47d555dc140f01881c4d4102981708cfb9a326694294",
+    "sha256": "87a9d2cc88b172b6004d447329282735df767adf7ad1b4f5938a7512795597fd"
+  },
+  {
+    "path": "experiments/matched/rebuild_cnns.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/expert_revision/rebuild_cnns.py",
+    "original_sha256": "3cf532b59549eae4dcf65c73ae61397eb2c7c859fa9ab03951ca636838bc27cb",
+    "sha256": "1d1735d84cc6bb521e11144e845e607546ce10f7f10cd29a1561b377f399f26a"
+  },
+  {
+    "path": "experiments/matched/reconstruct.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/expert_revision/reconstruct.py",
+    "original_sha256": "874e26105ec409adfcdf4edcbf7e54840b667ae3e925bcbf840fb8e97e14b8c9",
+    "sha256": "d290e4d848f5840604782a5069a3b56b2640e3ea934cf4b26b517c4e2d0eac79"
+  },
+  {
+    "path": "experiments/rebuild/nonlinear_paired_cost.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/self_rebuild/nonlinear_paired_cost.py",
+    "original_sha256": "c98d26feb7cbaf2f652c1a49a3683434f5ef8d4a43c7b7706472440b460da6de",
+    "sha256": "c2304c44f4ffc84a8a57246f662aed019dce79acc06aba74c59db57c008d2317"
+  },
+  {
+    "path": "experiments/rebuild/rebuild_generic.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/self_rebuild/rebuild_generic.py",
+    "original_sha256": "79c97799278c0b307b2fe2278ee5738668df4e4741b2a2f694f9c14244eb018a",
+    "sha256": "94ed43195c467b98884d96c7b92c3ecc9504a47cc325f4ba9ba77ec39f8576a7"
+  },
+  {
+    "path": "experiments/rebuild/rebuild_moving_full.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/self_rebuild/rebuild_moving_full.py",
+    "original_sha256": "728a3c535807d03fed25dad97adbd12a274a425f3439301fa0809232a7f7a728",
+    "sha256": "51a90be8a09396e1540aa9f4d66c9e7471a3dd65c134aec0ffbf280739995dc5"
+  },
+  {
+    "path": "experiments/rebuild/rebuild_structured_full.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/self_rebuild/rebuild_structured_full.py",
+    "original_sha256": "d9c570d5373fd9a6128f33641c150cac0a546a4941d6c5eb5cf34a04b88d65c2",
+    "sha256": "55b05602585e7bc118524fd15ef989c5fc3cc844a90aac4db6446e5600f7945a"
+  },
+  {
+    "path": "experiments/rebuild/verify_paired_arrays.py",
+    "origin": "V1.2/Reproducibility/Experiments_20261116/self_rebuild/verify_paired_arrays.py",
+    "original_sha256": "f24307638804f886427d6ab1abc7c63bf82ba234bfe8d2a6d30132928aea5131",
+    "sha256": "deb342e03669016d05a8f834e8b91cd9a8e615f56c76df7f48b95b613684208c"
+  },
+  {
+    "path": "mpc/server_package/check_package.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/check_package.py",
+    "original_sha256": "53bf7dbcf20d4fca78236ff59fb2e3a3acab6b5466b9fa867d9cdd7e2c8d6772",
+    "sha256": "53bf7dbcf20d4fca78236ff59fb2e3a3acab6b5466b9fa867d9cdd7e2c8d6772"
+  },
+  {
+    "path": "mpc/server_package/code/baselines_multihorizon.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/baselines_multihorizon.py",
+    "original_sha256": "c30e17368d449a133805126470ef22bae2aac0a877255368d7847d23d8389d97",
+    "sha256": "c30e17368d449a133805126470ef22bae2aac0a877255368d7847d23d8389d97"
+  },
+  {
+    "path": "mpc/server_package/code/mpc_instrumented.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/mpc_instrumented.py",
+    "original_sha256": "521e80998850166a39230f8c6d1f26d579350a16f31b1a5cb909b1f0adcaa258",
+    "sha256": "521e80998850166a39230f8c6d1f26d579350a16f31b1a5cb909b1f0adcaa258"
+  },
+  {
+    "path": "mpc/server_package/code/mpc_semilinear.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/mpc_semilinear.py",
+    "original_sha256": "264f73255ad78e457c59c066eb36541a20d11f5f518f64575fc0a90fc75f40c6",
+    "sha256": "264f73255ad78e457c59c066eb36541a20d11f5f518f64575fc0a90fc75f40c6"
+  },
+  {
+    "path": "mpc/server_package/code/osc_turnpike_surrogate.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/osc_turnpike_surrogate.py",
+    "original_sha256": "fd07f8022d15d2fe82381d529360cad94121a7ad127b454808d4eb5d12d764fa",
+    "sha256": "fd07f8022d15d2fe82381d529360cad94121a7ad127b454808d4eb5d12d764fa"
+  },
+  {
+    "path": "mpc/server_package/code/robin_solver.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/robin_solver.py",
+    "original_sha256": "556ecc2d60e5e5a1a2685c2724a087623449a78355492aa2efbe310a78d23dbe",
+    "sha256": "556ecc2d60e5e5a1a2685c2724a087623449a78355492aa2efbe310a78d23dbe"
+  },
+  {
+    "path": "mpc/server_package/code/semilinear1d.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/semilinear1d.py",
+    "original_sha256": "c2b6abf8ce9bbd4679c6fdcd7f34596bd8c0a961a21887a39032b81893adeb9f",
+    "sha256": "c2b6abf8ce9bbd4679c6fdcd7f34596bd8c0a961a21887a39032b81893adeb9f"
+  },
+  {
+    "path": "mpc/server_package/code/turnpike_surrogate.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/turnpike_surrogate.py",
+    "original_sha256": "83216f700dea70116497da7cd1192202b9d2b51cc4574fb12477a305160084fd",
+    "sha256": "83216f700dea70116497da7cd1192202b9d2b51cc4574fb12477a305160084fd"
+  },
+  {
+    "path": "mpc/server_package/code/y0_family.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/y0_family.py",
+    "original_sha256": "2bd994918fec649e77f90d954fdb0de8fb9fed0d926b97104e423e8d727b8080",
+    "sha256": "2bd994918fec649e77f90d954fdb0de8fb9fed0d926b97104e423e8d727b8080"
+  },
+  {
+    "path": "mpc/server_package/code/y0_turnpike_surrogate.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/code/y0_turnpike_surrogate.py",
+    "original_sha256": "61c04b663e37829202e74e710277267444340cf00546d4f55a7255e70d52989b",
+    "sha256": "61c04b663e37829202e74e710277267444340cf00546d4f55a7255e70d52989b"
+  },
+  {
+    "path": "mpc/server_package/collect_results.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/collect_results.py",
+    "original_sha256": "18e271fda82ef1a2f211b9e81cf5d598bdfd3bb407af377767909e7ee9212af3",
+    "sha256": "18e271fda82ef1a2f211b9e81cf5d598bdfd3bb407af377767909e7ee9212af3"
+  },
+  {
+    "path": "mpc/server_package/requirements.txt",
+    "origin": "V1.2/Reproducibility/MPC/server_package/requirements.txt",
+    "original_sha256": "797fecf370c9ee8d46d868154bbe42488cd85311e22953161aa77bebd98e2a58",
+    "sha256": "797fecf370c9ee8d46d868154bbe42488cd85311e22953161aa77bebd98e2a58"
+  },
+  {
+    "path": "mpc/server_package/run_mpc.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/run_mpc.py",
+    "original_sha256": "1df93b91bc395ce71a1a087c30d6cfb594f58c682e2688b884eab7770285584c",
+    "sha256": "1df93b91bc395ce71a1a087c30d6cfb594f58c682e2688b884eab7770285584c"
+  },
+  {
+    "path": "mpc/server_package/RUN_PROTOCOL.json",
+    "origin": "V1.2/Reproducibility/MPC/server_package/RUN_PROTOCOL.json",
+    "original_sha256": "9102593ba92d505c79b5dfdd84b5cfb183cdb39a67bde02275901e8ec8aef5d8",
+    "sha256": "9102593ba92d505c79b5dfdd84b5cfb183cdb39a67bde02275901e8ec8aef5d8"
+  },
+  {
+    "path": "mpc/server_package/summarize_results.py",
+    "origin": "V1.2/Reproducibility/MPC/server_package/summarize_results.py",
+    "original_sha256": "c4cb20dee042b6d8e69151d5cdcc2e46371295552315cadae5f161615bb8d10a",
+    "sha256": "c4cb20dee042b6d8e69151d5cdcc2e46371295552315cadae5f161615bb8d10a"
+  },
+  {
+    "path": "mpc/verify_mpc_return.py",
+    "origin": "V1.2/Reproducibility/MPC/verify_mpc_return.py",
+    "original_sha256": "424370701b9919206810cb901f64cdaa6825c5b5334c3505cf084e0140b3bb0b",
+    "sha256": "424370701b9919206810cb901f64cdaa6825c5b5334c3505cf084e0140b3bb0b"
+  }
+]

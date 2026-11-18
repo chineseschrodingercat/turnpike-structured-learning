@@ -1,0 +1,86 @@
+{
+  "protocol_id": "MPC_HANDOFF_20261116_V1",
+  "model": "weights/model_tp_hyb_seed0.pt",
+  "dt": 0.003125,
+  "state_dimension": 160,
+  "simulation_T": 8,
+  "control_update_steps": 32,
+  "feedback_updates_per_trajectory": 80,
+  "core_controllers": [
+    "tp_1",
+    "tp_4",
+    "exact_1",
+    "exact_4"
+  ],
+  "all_controllers": [
+    "tp_1",
+    "tp_4",
+    "exact_1",
+    "exact_4",
+    "lq_1",
+    "openloop",
+    "const"
+  ],
+  "core_trajectory_count": 96,
+  "all_trajectory_count": 168,
+  "threads_per_worker": 1,
+  "precision": "float64 CPU",
+  "cohorts": [
+    {
+      "cohort": "A",
+      "sample_indices": [
+        2062,
+        302,
+        2845,
+        1425,
+        944,
+        608,
+        2903,
+        105,
+        682,
+        586,
+        2781,
+        1767
+      ],
+      "timing_sample_indices": [
+        2062,
+        608,
+        1767
+      ]
+    },
+    {
+      "cohort": "B",
+      "sample_indices": [
+        2062,
+        302,
+        2845,
+        1425,
+        944,
+        608,
+        2903,
+        105,
+        682,
+        586,
+        2781,
+        1767
+      ],
+      "timing_sample_indices": [
+        2062,
+        608,
+        1767
+      ]
+    }
+  ],
+  "verification": {
+    "relative_control_difference_max": 1e-06,
+    "relative_cost_difference_max": 1e-08,
+    "solver_residual_max": 1e-08
+  },
+  "timing": {
+    "setup": "after imports; includes the original common static reference, controller initialization, disturbance construction and input preparation",
+    "controller": "all 80 calls; includes state projection for neural model and shifted warm start for exact; excludes plant propagation",
+    "full_wall": "case wall time including setup, all controller calls, plant propagation, and progress logging",
+    "parallel": "shared-load measurements only; do not present as isolated query timing",
+    "isolated_stage": "timing, workers=1, fixed positions 0/5/11 in each cohort"
+  }
+}
